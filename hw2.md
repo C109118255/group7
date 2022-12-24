@@ -63,7 +63,5 @@
 | 先決條件 | 使用機台 | 
 | 後置條件 | 遊戲獲勝 | 
 | 假設 | 無 | 
-## Figma 
 
-[Figma](https://www.figma.com/)
 
